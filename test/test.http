@@ -1,0 +1,8 @@
+
+POST http://localhost:53000/api/v1/messages
+Content-Type: application/json
+    
+    {
+    "inputName": "input1",
+    "data": "Hello, world!"
+    }
